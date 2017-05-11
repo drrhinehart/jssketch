@@ -1,0 +1,1 @@
+The goal of this project is to create something that resembles a etch and sketch. It should have a box with that able to contain a 16x16 - 64x64 where each square changes color while mousing over it. It should have a reset button and an ability to adjust the grid size.  
