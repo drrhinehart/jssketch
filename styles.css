@@ -46,6 +46,7 @@ button{
 	width: 600px;
 	background-color: #F7FDFF;
 	border-radius: 20px;
+	box-shadow: 3px 3px black;
 }
 
 #circle_l{
@@ -56,6 +57,7 @@ button{
     margin-top: 40px;
     float: left;
     margin-left: 50px;
+    box-shadow: 3px 3px black;
 }
 #circle_r{
     height: 130px;
@@ -65,4 +67,5 @@ button{
     margin-top: 40px;
     float: right;
     margin-right: 50px;
+    box-shadow: 3px 3px black;
 }
