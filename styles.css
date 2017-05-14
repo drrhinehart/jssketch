@@ -1,32 +1,32 @@
 body {
 	background-color: #13B2AA;
 	font-family: Arial, sans-serif;
-    font-size: 30px;
+  font-size: 30px;
 }
 
 h1 {
 	margin:auto;
 	color: #FF7C5C;
-    text-align: center;
-    text-shadow: 1px 1px #BEE8CE;
+  text-align: center;
+  text-shadow: 1px 1px #BEE8CE;
 }
 
 button{
 	margin: auto;
 	border: 2px solid #FF7C5C;
-    font-size: 30px;
-    padding: 5px;
-    background-color: #401F17;
-    color: #FF7C5C;
-    border-radius:10px;
-    display: block;
+  font-size: 30px;
+  padding: 5px;
+  background-color: #401F17;
+  color: #FF7C5C;
+  border-radius:10px;
+  display: block;
 }
 
 #container{
 	position: relative;
 	margin-right: auto;
 	margin-left: auto;
-    box-shadow: 3px 3px black;
+  box-shadow: 3px 3px black;
 }
 
 #es_body{
